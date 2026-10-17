@@ -54,7 +54,7 @@ export default function Hero() {
           <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(139,92,246,0.15),transparent_70%)]"></div>
           {/* Profile Photo */}
           <img 
-            src="/src/assets/images/profile_photo.jpg" 
+            src="/photo_2026-03-21_15-40-54.jpg" 
             alt="Tadesse Mersha" 
             className="w-full h-full object-cover opacity-90 hover:opacity-100 transition-opacity duration-500" 
           />
